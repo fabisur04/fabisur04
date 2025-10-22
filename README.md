@@ -1,11 +1,11 @@
-<img width="285" height="138" alt="image" src="https://github.com/user-attachments/assets/58ed1990-c120-40e5-ab27-575e7c5a63ac" /># Holaa, Soy Fabian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Holaa, Soy Fabian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h3 align="center">Fabian Suárez</h3>
 <h3 align="center">Estudiante de Ingeniería Civil en Computación e Informática 💻</h3>
 <h3 align="center">4to Semestre</h3>
-<h3 align="center">UCSH</h3>
+<h3 align="center">UCSH <img src="https://github.com/user-attachments/assets/58ed1990-c120-40e5-ab27-575e7c5a63ac" width="60px"></h3>
 
 
 
