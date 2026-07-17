@@ -6,7 +6,7 @@
 
 <h3>Fabian Suárez</h3>
 <h3>Estudiante de Ingeniería Civil en Computación e Informática 💻</h3>
-<h3>4to Semestre</h3>
+<h3>6to Semestre</h3>
 <h3>UCSH <img src="https://github.com/user-attachments/assets/58ed1990-c120-40e5-ab27-575e7c5a63ac" width="60px"></h3>
 
 <p>
